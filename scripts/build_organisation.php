@@ -49,7 +49,7 @@ Class OrganisationBuilder {
 		foreach($this->meetups as $meetup){
 			extract($meetup);
 
-			$list .= "*$name*		$time	$date\n\n";
+			$list .= "**$name**		$time	$date\n\n";
 		}
 
 		$list = trim($list, "\n");

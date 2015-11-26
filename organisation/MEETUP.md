@@ -2,7 +2,7 @@
 
 ## Schedule
 
-*Uvodno okupljanje*		18:00	03-12-2015
+**Uvodno okupljanje**		18:00	03-12-2015
 
 ## Meetup diary
 
