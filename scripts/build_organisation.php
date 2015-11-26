@@ -63,7 +63,7 @@ Class OrganisationBuilder {
 		foreach($this->meetups as $meetup){
 			extract($meetup);
 
-			$diary_content .= "### *$name*\n\n$diary\n\n";
+			$diary_content .= "### **$name**\n\n$diary\n\n";
 		}
 
 		$diary = trim($diary_content, "\n");

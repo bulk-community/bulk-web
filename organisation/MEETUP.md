@@ -6,7 +6,7 @@
 
 ## Meetup diary
 
-### *Uvodno okupljanje*
+### **Uvodno okupljanje**
 
 I expect at least 5 people on meetup.
 
