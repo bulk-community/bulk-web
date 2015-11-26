@@ -31,6 +31,8 @@ Class OrganisationBuilder {
 
 			file_put_contents("./organisation/".ltrim($file, "_"), $data);
 		}
+
+		file_put_contents("./README.md", file_get_contents("./organisation/README.md"));
 	}
 
 	private function cleanupBuild(){

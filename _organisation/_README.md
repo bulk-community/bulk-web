@@ -6,5 +6,5 @@ All files written in `\*.md` files are in `/_organisation/`. If you edit them, m
 
 ## Meetup schedule
 
-**Uvodno okupljanje**		18:00	03-12-2015
+{{meetup_list}}
 
