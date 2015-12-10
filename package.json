@@ -1,0 +1,14 @@
+{
+  "name": "bulk-web",
+  "version": "0.0.0",
+  "description": "Just some crazy realtime stuff",
+  "author": "nemanjan00 <nemanjan00@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+	"grunt": "*",
+	"grunt-contrib-concat": "*",
+	"grunt-contrib-less": "*",
+	"grunt-contrib-uglify": "*",
+	"grunt-contrib-watch": "*"
+  }
+}

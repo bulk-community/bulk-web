@@ -1,4 +1,17 @@
+# Ignore Vim temp files
+
 *~
 *.swp
 *.swo
+
+# Ignore Composer vendor folder
+
+/vendor
+
+# Ignore my local config
+
+/start.sh
+
+bower_components
+node_modules
 

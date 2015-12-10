@@ -1,0 +1,15 @@
+{
+  "name": "bulk-web",
+  "homepage": "https://github.com/lugobg/lugobg-web",
+  "authors": [
+    "Nemanja Nedeljković <nemanjan00@gmail.com>"
+  ],
+  "description": "Web page of BULK",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "angularjs#~1.4.8"
+  }
+}
