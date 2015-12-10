@@ -10,6 +10,9 @@
   "private": true,
   "dependencies": {
     "bootstrap": "~3.3.6",
-    "angular": "angularjs#~1.4.8"
+    "angular": "angularjs#~1.4.8",
+    "font-awesome": "~4.5.0",
+    "angular-ui-router": "~0.2.15",
+    "angular-bootstrap": "~0.14.3"
   }
 }

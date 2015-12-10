@@ -1,0 +1,7 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "klein/klein": "dev-master",
+        "twig/twig": "^2.0@dev"
+    }
+}

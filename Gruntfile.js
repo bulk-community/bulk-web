@@ -12,6 +12,7 @@ module.exports = function(grunt) {
 					'./bower_components/bootstrap/dist/js/bootstrap.js',
 					'./bower_components/angular/angular.js',
 					'./bower_components/angular-ui-router/release/angular-ui-router.min.js',
+					'./bower_components/angular-bootstrap/ui-bootstrap.min.js',
 					'./assets/javascript/router.js',
 					'./assets/javascript/custom.js'
 				],

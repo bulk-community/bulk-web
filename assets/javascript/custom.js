@@ -1,4 +1,4 @@
-angular.module('org.nemanjan00.open-pua.controllers', ['ui.bootstrap'])
+angular.module('org.nemanjan00.bulk.controllers', ['ui.bootstrap'])
 .controller("MainPage", function($scope, $uibModal, $http){
 	$scope.open = function () {
 		$scope.modal = $uibModal.open({

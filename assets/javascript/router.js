@@ -1,4 +1,4 @@
-angular.module('org.nemanjan00.open-pua', ['ui.router', 'org.nemanjan00.open-pua.controllers'])
+angular.module('org.nemanjan00.bulk', ['ui.router', 'org.nemanjan00.bulk.controllers'])
 
 .config(function($stateProvider, $urlRouterProvider, $locationProvider) {
 	$locationProvider.html5Mode(true);
@@ -10,8 +10,8 @@ angular.module('org.nemanjan00.open-pua', ['ui.router', 'org.nemanjan00.open-pua
 			templateUrl: "templates/menu.html"
 		})
 
-		.state('app.map', {
-			url: "/map",
+		.state('app.home', {
+			url: "/home",
 			views: {
 				'menuContent' :{
 					templateUrl: "templates/index.html",
@@ -19,5 +19,5 @@ angular.module('org.nemanjan00.open-pua', ['ui.router', 'org.nemanjan00.open-pua
 			}
 		})
 
-	$urlRouterProvider.otherwise('/app/api');
+	$urlRouterProvider.otherwise('/app/home');
 });
