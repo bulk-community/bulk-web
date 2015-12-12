@@ -1,4 +1,4 @@
-# LUGoBG Website
+# BULK Website
 
 ## Editing markdown
 

@@ -1,4 +1,4 @@
-# LUGoBG Web Team meetups
+# BULK Web Team meetups
 
 ## Schedule
 
