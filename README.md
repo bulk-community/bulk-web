@@ -1,4 +1,4 @@
-# LUGoBG Website
+# BULK Website
 
 ## Editing markdown
 
@@ -6,5 +6,5 @@ All files written in `\*.md` files are in `/_organisation/`. If you edit them, m
 
 ## Meetup schedule
 
-**Uvodno okupljanje**		18:00	03-12-2015
+**Uvodno okupljanje**		18:00	10-12-2015
 
